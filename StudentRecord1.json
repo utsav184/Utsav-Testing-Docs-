@@ -1,0 +1,36 @@
+[
+  {
+    "student_id": "S001",
+    "first_name": "Alice",
+    "last_name": "Smith",
+    "date_of_birth": "2005-09-15",
+    "gender": "Female",
+    "major": "Computer Science",
+    "grades": {
+      "math": 92,
+      "science": 88,
+      "english": 95
+    },
+    "contact": {
+      "email": "alice.smith@example.com",
+      "phone": "123-456-7890"
+    }
+  },
+  {
+    "student_id": "S002",
+    "first_name": "Bob",
+    "last_name": "Johnson",
+    "date_of_birth": "2004-11-20",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "grades": {
+      "math": 85,
+      "science": 90,
+      "english": 80
+    },
+    "contact": {
+      "email": "bob.johnson@example.com",
+      "phone": "098-765-4321"
+    }
+  }
+]
